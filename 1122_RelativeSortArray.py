@@ -16,7 +16,7 @@ Output: [22,28,8,6,17,44]
 """
 
 class Solution:
-    def relativeSortArray(self, arr1: List[int], arr2: List[int]) -> List[int]:
+    def relativeSortArray(self, arr1: list[int], arr2: list[int]) -> list[int]:
         sortedArray = []
         notInArr2 = []
 
