@@ -1,2 +1,0 @@
-gits.push(getLastIndex)
-    // re
